@@ -1,0 +1,1 @@
+export { getDisplay } from './getDisplay'
